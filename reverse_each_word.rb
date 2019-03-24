@@ -5,7 +5,3 @@ def reverse_each_word(string)
   new_arr.each {|i| rev_arr.unshift(i)}
   rev_arr.join(" ")
 end
-
-def
-
-end
